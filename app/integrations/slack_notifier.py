@@ -1,11 +1,3 @@
-# slack_notifier.py (WEBHOOK-ONLY VERSION)
-"""
-SlackNotifier — Webhook-Only Version
-
-Requirements:
-------------
-- SLACK_WEBHOOK_URL must be present in .env
-"""
 
 import os
 import json
