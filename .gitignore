@@ -3,6 +3,8 @@
 
 # Ignore virtual environment
 venv/
+data/
+models/
 
 # Ignore credentials folder
 credentials/
